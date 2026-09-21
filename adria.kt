@@ -1,1 +1,1 @@
-Benvingut Adrià!
+println("Benvingut Adrià!")
