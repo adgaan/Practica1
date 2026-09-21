@@ -1,1 +1,1 @@
-println("Benvingut Adrià!")
+println("Benvingut Adrià! - DAM2")
